@@ -102,3 +102,11 @@ dist
 
 # TernJS port file
 .tern-port
+
+# Personal
+.DS_Store
+twitter_proxy_config.json
+js/tweet.js
+a2-tweets-naschnei.zip
+a2-tweets-CampAsAChamp.zip
+
