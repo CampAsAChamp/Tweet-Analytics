@@ -7,10 +7,10 @@
     <img src="imgs/logo.jpeg" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">Sleep Tracker</h3>
+<h3 align="center">Tweet Analytics</h3>
 
   <p align="center">
-    Sleep Tracker app for both iOS and Android built using Ionic
+    Analytics from RunKeeper Tweets
     <br />
     <br />
     <a href="https://github.com/CampAsAChamp/Tweet-Analytics">View Demo</a>
