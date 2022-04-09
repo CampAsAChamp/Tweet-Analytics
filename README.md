@@ -1,7 +1,3 @@
-# Tweet Analytics
-Tweet Analytics for running app
-
-
 <div id="top"></div>
 
 <!-- PROJECT LOGO -->
