@@ -66,6 +66,7 @@
 ### Built With
 
 * [TypeScript](https://www.typescriptlang.org/)
+* [jQuery](https://www.jquery.com/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
