@@ -10,7 +10,7 @@
 <h3 align="center">Tweet Analytics</h3>
 
   <p align="center">
-    Analytics from RunKeeper Tweets
+    Analytic viewer from RunKeeper Tweets
     <br />
     <br />
     <a href="https://github.com/CampAsAChamp/Tweet-Analytics">View Demo</a>
