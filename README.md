@@ -65,8 +65,7 @@
 
 ### Built With
 
-* [TypeScript](https://www.typescriptlang.org/)
-* [jQuery](https://www.jquery.com/)
+[![My Skills](https://skillicons.dev/icons?i=ts,jquery,html,css)](https://skillicons.dev)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
